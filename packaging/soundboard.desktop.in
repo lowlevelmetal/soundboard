@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Soundboard
+Comment=Play sounds through your microphone
+Exec=@SOUNDBOARD_EXEC@
+Icon=@SOUNDBOARD_APP_ID@
+Terminal=false
+Categories=AudioVideo;Audio;
+Keywords=soundpad;sound;board;microphone;

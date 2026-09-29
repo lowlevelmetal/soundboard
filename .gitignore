@@ -1,0 +1,7 @@
+/build*/
+/dist/
+CMakeLists.txt.user*
+.qtcreator/
+.vs/
+.vscode/
+compile_commands.json
